@@ -1,1 +1,2 @@
-To jest ziana na masterze
+To jest zmiana na newfeature
+
